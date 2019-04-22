@@ -1,0 +1,19 @@
+{
+  "name": "generative-drawing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "lou kishfy",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "jquery": "^3.4.0",
+    "p5": "^0.8.0",
+    "socket.io": "^2.2.0"
+  }
+}
